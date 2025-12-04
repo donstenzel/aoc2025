@@ -1,7 +1,5 @@
-F ← &fras".env"
-M ← map⍚°$"_=_"▽≠@#⊜⊃⊢□⊸≠@\nF
-
-V ← ⍣get°◌⊙M
+M ↚ map⍚°$"_=_" ▽≠@#⊜⊃⊢□⊸≠@\n &fras".env"
+V ↚ get⊙M
 
 Get ← (
   ⨬(∩(⍥&fmd¬⊸&fe)
