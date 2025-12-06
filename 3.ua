@@ -3,5 +3,5 @@ P ← ⊜∘⊸≠@\n
 
 F ← /+⋕≡∧⍜↘(°˜⊂↘⊢⊸⍖)¤⇌¯⇡
 
-~ "get" ~ Get
-∩⌟F 12 2 P Get 2025 3
+~ "lib" ~ Display‼ Get
+Display‼(F 2|F 12) P Get 2025 3
