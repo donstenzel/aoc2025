@@ -34,14 +34,12 @@ Profile‼ ← (
   &p S₀ °⊟₃⍉≡$"─_─" ⊂₃ N!^0 @\s N!^1
 )
 
-S₁ ↚ $$ [#1 took _]
-     $$ _
-     $$ [#2 took _]
-     $$ _
+S₁ ↚ $$ 1: _ (took _)
+     $$ 2: _ (took _)
 
 # Display both parts with elapsed time
 Display‼ ← (
-  &p S₁ ⍜⊙◌∩Time ⊃⍜now^0⍜now^1
+  &p S₁ λ!badc ⍜⊙◌∩Time ⊃⍜now^0⍜now^1
 )
 
 # Get the input for a given Day and Year.

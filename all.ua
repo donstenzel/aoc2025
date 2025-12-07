@@ -1,0 +1,16 @@
+#!/usr/bin/env -S uiua run
+# Experimental!
+&p "Day 1"
+~ "1"
+&p "Day 2"
+~ "2"
+&p "Day 3"
+~ "3"
+&p "Day 4"
+~ "4"
+&p "Day 5"
+~ "5"
+&p "Day 6"
+~ "6"
+&p "Day 7"
+~ "7"
