@@ -1,4 +1,14 @@
-λ! ←^ $"⊃(_)" /◇⊂₃ @| ⍚⊂⊙@∘ ⍚▽⊙@⋅ -@a°□⊢
+λ! ←^ $"⊃(_)" /◇⊂₃ @| ⍚⊂⊓(⍚▽⊙@⋅ -@A|⊏⊙"∘□") ◇°˜(×-⊸¬) ⊢
+
+┌─╴ANSI
+  E ← $"\x1b[_"
+
+  Alt ← ⌅(&pf E "?1049h"|&pf E "?1049l")
+
+  Home ← &pf E "H"
+
+  Clear ← &pf E "2J"
+└─╴
 
 Mean   ← ÷⧻⟜/+
 Median ← ÷₂/+⊏⊟⊃⌊⌈÷₂-₁⊸⧻⍆
@@ -38,9 +48,7 @@ S₁ ↚ $$ 1: _ (took _)
      $$ 2: _ (took _)
 
 # Display both parts with elapsed time
-Display‼ ← (
-  &p S₁ λ!badc ⍜⊙◌∩Time ⊃⍜now^0⍜now^1
-)
+Display‼ ← &p S₁ λ!badc ⍜⊙◌∩Time ⊃⍜now^0⍜now^1
 
 # Get the input for a given Day and Year.
 # Invalid dates will error as no input is
