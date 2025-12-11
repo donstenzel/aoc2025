@@ -5,5 +5,5 @@ C ← ⧻⊚⨬◇/+◇/×
 F ← C ⊙(⍉ ≡⊜⋕⊸≠@\s)
 G ← C ⊙(⊜°◇°⋕ /↥⍉⊸≠@\s ⍉)
 
-~ "lib" ~ Display‼ Get
-Display‼F G P Get 2025 6
+~ "lib" ~ Display! Get
+Display!(F|G) P Get 2025 6

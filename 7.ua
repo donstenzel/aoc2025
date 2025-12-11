@@ -2,9 +2,9 @@
 
 P ← ≠@. ⊜∘⊸≠@\n
 
-N! ← /^ ⊂≡⌟↻A₁ ∩⌞×⊙⟜¬
-F  ← ⧻⊚ ⧈< \N!↥
-G  ← ⧻⊚ /N!+
+N ← /+ ⊂≡⌟↻A₁ ∩⌞×⊙⟜¬
+F ← ⧻⊚ ⧈< \N
+G ← ⧻⊚ /N
 
-~ "lib" ~ Display‼ Get
-Display‼F G P Get 2025 7
+~ "lib" ~ Display! Get
+Display!(F|G) P Get 2025 7

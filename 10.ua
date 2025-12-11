@@ -12,6 +12,6 @@ N ← ▽⤚(/×≥⍉) ◴≡⌞+
 M ← -₁⧻⊢pathN∪≍ ⊙⬚0≡◇°⊚◡⋅≡⋅0
 G ← /+≡◇M
 
-~ "lib" ~ Get
+~ "lib" ~ Display! Get
 Get 2025 10
-⊓F◌ P
+Display!F ⊙⊙◌ P

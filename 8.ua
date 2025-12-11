@@ -7,5 +7,5 @@ U ← ↥×⊙⊸=⊃/↥/↧⊸⊏
 F ← /× ↙₋₃⍆ °⊚ ∧U ⊓↙₁₀₀₀(⇡⧻)
 G ← /× ⊏⊣⊸⍢⊃↘₁(⤚U⊢)⋅(/↥⧈≠)
 
-~ "lib" ~ Display‼ Get
-Display‼F G P Get 2025 8
+~ "lib" ~ Display! Get
+Display!(F|G) P Get 2025 8

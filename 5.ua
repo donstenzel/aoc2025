@@ -6,5 +6,5 @@ F ← ⧻⊚ /↥ ×⊃∪⊞≥⋅⊞≤
 
 G ← ⧻⊚ +₁ /-⍉ ⊜/[⊓⊢⊣] \+⊂1 >⊸⧈⊓⊣⊢ \↥⍆ ≡⊟
 
-~ "lib" ~ Display‼ Get
-Display‼F G P Get 2025 5
+~ "lib" ~ Display! Get
+Display!(F|G) P Get 2025 5

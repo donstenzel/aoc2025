@@ -5,5 +5,5 @@ P ← ⊃(/× +₁⌵ /-⊸⍉ ⧅₂<|⍉≡⊟⟜↻₁) ⋕°csv
 F ← /↥
 G ← /↥ ▽⤚⋅≡⌟(/× /↥ ⊂ ⊓≥≤ ⊃⊓/↥/↧⊓/↧/↥)
 
-~ "lib" ~ Display‼ Get
-Display‼F G P Get 2025 9
+~ "lib" ~ Display! Get
+Display!(F|G) P Get 2025 9
